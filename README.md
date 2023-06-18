@@ -1,5 +1,5 @@
 # Starfield
 
-# Просто заставка на монитор
+# Just a screensaver
 
 ![Скриншот приложения](https://github.com/daniilklementiev/Starfield-Screensaver/blob/master/starfield.png)
